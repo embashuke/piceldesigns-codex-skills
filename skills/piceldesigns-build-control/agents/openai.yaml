@@ -1,0 +1,4 @@
+interface:
+  display_name: "Piceldesigns Build Control"
+  short_description: "Piceldesigns scope and build guardrails"
+  default_prompt: "Use $piceldesigns-build-control before planning or coding this Piceldesigns Phase 1 website task."
