@@ -1,4 +1,0 @@
-interface:
-  display_name: "Piceldesigns Frontend Website Designer"
-  short_description: "Locked Piceldesigns frontend UI execution"
-  default_prompt: "Use $piceldesigns-frontend-website-designer to implement or review this Piceldesigns Phase 1 frontend UI change against the approved docs and locked UI rules."
